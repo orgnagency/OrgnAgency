@@ -11,7 +11,7 @@ const CONFIG = {
   // >>> YOUTUBE VIDEO URL <<<
   // Paste any normal YouTube link (watch, youtu.be, shorts or embed).
   // Replace the link below to change the video.
-  youtubeUrl: "https://youtu.be/YxODoZUfaA8?si=PTBegaYe_0oCVEcC",
+  youtubeUrl: "هنا هحط لينك فيديو البرومو",
 
   // >>> CONTACT FORM ENDPOINT <<<
   // Leave empty until an email service is connected. While empty, the form
